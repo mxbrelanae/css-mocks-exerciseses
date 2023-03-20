@@ -1,0 +1,36 @@
+body{
+    position: relative;
+    top: 200px;
+    width: 500px;
+    border: solid rgb(180, 180, 180) 1px;
+    border-radius: 10px;
+    margin: 0 auto;
+    
+}
+
+.kitty{
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F08%2F80%2F38%2F0880382abb1c74570c5c5f7aae3482cf.jpg&f=1&nofb=1&ipt=9c997ea8c9f077b61668dd6a0fa768dbdea45a81445f5bd8dc08876be8ef24ec&ipo=images");
+    background-size: auto;
+    width: 500px;
+    padding-bottom: 60%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}   
+
+.title-k{
+    font-size: 36px;
+    font-weight: bold; 
+}
+
+.latin{
+    font-size: 18;
+    border-top: solid rgb(180, 180, 180) 1px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.title-k, .latin{
+    background-color: rgb(238, 238, 238);
+    padding: 18px;
+    box-shadow: 0px 5px 5px 0px rgb(140, 140, 140);
+}
